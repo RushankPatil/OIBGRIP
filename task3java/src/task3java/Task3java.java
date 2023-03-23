@@ -20,7 +20,7 @@ public class Task3java {
         System.out.println("enter 1 for withdraw");
         System.out.println("enter 2 for deposit");
         System.out.println("enter 3 for transfer");
-        System.out.println("enter 4 for transaction histScannerory");
+        System.out.println("enter 4 for transaction history");
         System.out.println("enter 5 to exit");
         System.out.println("enter your choice");
         int ch=sc.nextInt();
